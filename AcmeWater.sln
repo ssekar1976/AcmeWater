@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeWater", "AcmeWater\AcmeWater.csproj", "{99DA9B17-1BB4-46F7-ABB3-448754F5DD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeWater.Tests", "AcmeWater.Tests\AcmeWater.Tests.csproj", "{0BE8F989-678C-44F5-844F-9D1AD3D6315F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DA9B17-1BB4-46F7-ABB3-448754F5DD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DA9B17-1BB4-46F7-ABB3-448754F5DD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DA9B17-1BB4-46F7-ABB3-448754F5DD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DA9B17-1BB4-46F7-ABB3-448754F5DD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE8F989-678C-44F5-844F-9D1AD3D6315F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE8F989-678C-44F5-844F-9D1AD3D6315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE8F989-678C-44F5-844F-9D1AD3D6315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE8F989-678C-44F5-844F-9D1AD3D6315F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
